@@ -1,0 +1,60 @@
+body , html{
+    height: 100%;
+    width: 100%;
+    font-family: Montserrat;
+    color: #000000;
+}
+
+ul , li{
+    list-style: none;
+}
+
+input , button{
+    border: none;
+    background-color: #C4C4C4;
+}
+
+.menu__list{
+    display: flex;
+}
+
+.menu__item{
+    margin-right: 26px;
+}
+
+.menu__item:last-child{
+    margin-right: 0;
+}
+
+.image-1{
+    margin-top: 47px;
+    margin-bottom: 48px;
+}
+
+.input__form{
+    font-family: Montserrat;
+    margin-bottom: 10px;
+}
+
+.input__form:last-child{
+    margin-bottom: 3;
+}
+
+.label__choose{
+    font-size: 14px;
+    letter-spacing: 0.02em;
+}
+
+.label__agree{
+    font-size: 14px;
+}
+
+.image-2{
+    margin-top: 37px;
+}
+
+.order__button{
+    font-family: Montserrat;
+    font-size: 14px;
+    padding: 5px 36px;
+}
