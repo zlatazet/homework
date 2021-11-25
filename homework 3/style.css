@@ -87,7 +87,6 @@ body{
 }
 
 .item__1{
-    content: "";
     width: 178px;
     height: 121px;
     background: #BFDEFB;
@@ -97,7 +96,6 @@ body{
 }
 
 .item__2{
-    content: "";
     width: 178px;
     height: 121px;
     background: #BFDEFB;
@@ -107,7 +105,6 @@ body{
 }
 
 .item__3{
-    content: "";
     width: 178px;
     height: 121px;
     background: #BFDEFB;
